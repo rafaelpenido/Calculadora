@@ -54,18 +54,12 @@ table td {
     background-color: #17313e;
 }
 
-.ac {
-    background-color: #a855f7;
-}
-
-.ac:hover {
-    background-color: #bf46ef;
-}
-
+.ac,
 .especial {
     background-color: #a855f7;
 }
 
+.ac:hover,
 .especial:hover {
     background-color: #bf46ef;
 }
